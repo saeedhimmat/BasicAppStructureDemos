@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicAppStructureDemo</string>
+    <string name="button_text">Go to Second Activity</string>
+    <string name="button_text2">Go to Second Activity and return result)</string>
+    <string name="text1">Please press one of the buttons!</string>
+    <string name="second_activity_text">This is the second Activity.</string>
+    <string name="go_back_button_text">Set result</string>
+</resources>

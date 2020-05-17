@@ -1,0 +1,2 @@
+rootProject.name='BasicAppStructureDemo'
+include ':app'
